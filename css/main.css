@@ -1,0 +1,131 @@
+html {
+    background-color:#6BAA75;
+}
+tr {
+    background-color:#70D7A1;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    text-align: center;
+    font-size:3vw;
+    font-family:serif;
+}
+h6 {
+    text-align:center;
+    font-size: 2vw;
+    font-family:serif
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 2vw;
+}
+#navbar{
+    background-color: #288F5A;
+    border-style:groove;
+    border-color: rgb(41, 41, 41);
+    border-width: thick 1px thick 1px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.navbar th {
+    border-style: groove;
+    padding: 5px
+}
+
+.navbar{
+    background-color:#288F5A;
+    border: 3px solid;
+    border-color: #288F5A;
+    position: sticky;
+    top: 0px
+}
+header{
+    font-size:70px;
+    background-color:#288F5A;
+    text-align: center;
+    border:3px solid #288F5A;
+    font-weight: bold;
+}
+footer{
+    background-color: #C2A878;
+    font-size: 20px;
+    margin:0px;
+}
+.profile{
+    text-align: center;
+    background-color: #FFC847;
+}
+h1 {
+    font-size: 5vw;
+    text-align: center;
+}
+.even-row{
+    background-color: #FADA5E;
+}
+.dropdown{
+    text-align: center;
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align:center;
+    font-size:30px;
+}
+.dropdown-content{
+    text-align: center;
+    display: none;
+    position:absolute;
+    background-color: #70D7A1;
+    padding: 2px;
+    box-shadow: 5px 6px 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.active{
+    background-color: #31AF6E;
+}
+.videos{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 4vw;
+    font-family: serif;
+    
+}
+
+.title
+{
+    text-align: center;
+    font-size: 5vw;
+    font-family: serif;
+}
+h{
+    font-size: 3.5vw;
+    color: #8DDBE0;
+}
+h5{
+    text-align:center;
+    font-size:30px;
+    font-family: serif;
+}
+.img{
+    text-align: center;
+}
+.fact{
+    float:none;
+}
+c{
+    font-size: 3vw;
+    color: #6572A4;
+}
